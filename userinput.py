@@ -1,5 +1,6 @@
 name = input("Enter your name:")
 print(f"Hello {name}")
+print("Welcome to the program!")
 fav1 = input("What is your favorite animal? ")
 fav2 = input("What is your favorite color? ")
 fav3 = input("What is your favorite number? ")
