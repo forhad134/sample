@@ -1,7 +1,5 @@
-name = input("Enter your name:")
-print(f"Hello {name}")
-print("Welcome to the program!")
-fav1 = input("What is your favorite animal? ")
-fav2 = input("What is your favorite color? ")
-fav3 = input("What is your favorite number? ")
-print(f"Do you want a {fav2} {fav1} with {fav3} legs?")
+fruits = ["apple", "banana", "cherry"]
+for x in fruits:
+  print(x) 
+  if x == "banana":
+    break
